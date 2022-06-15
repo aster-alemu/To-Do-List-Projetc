@@ -1,6 +1,6 @@
 # To-Do-List-Projetc
 
-It is a To Do List on which the user can add, delete and edit task to be completed.
+It is a To Do List structure project 
 
 ## Built With
 
