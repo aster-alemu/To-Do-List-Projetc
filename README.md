@@ -1,6 +1,6 @@
-# To-Do-List-Projetc
+# Todo List with Add and Remove Function Project
 
-It is a To Do List structure project 
+It is a Todo list with CURD (create, update, delete) methods 
 
 ## Built With
 
@@ -13,7 +13,6 @@ It is a To Do List structure project
 - Install Node.js
 - Clone the repository 
 - On the root directory, run 'npm install' on the terminal to install packages.
-- Run 'run npm start' on the terminal to start live server.
 - Then well to go
 
 ## Author
