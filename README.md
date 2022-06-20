@@ -8,6 +8,10 @@ It is a Todo list with CURD (create, update, delete) methods  and the user will 
 - CSS
 - JavaScript
 
+## Live demo
+
+If you want to see on the live demo, you can use the following link: https://aster-alemu.github.io/To-Do-List-Projetc/
+
 ## Getting Started
 
 - Install Node.js
