@@ -1,6 +1,6 @@
-# Todo List with Interactivity
+# Todo List with Add and Remove function
 
-It is a Todo list with CURD (create, update, delete) methods  and the user will also be able to mark task completion by selecting the corresponding checkbox. The updated tasks list will be stored in local storage.
+- This project is a todo list project with add and remove function
 
 ## Built With
 
