@@ -1,6 +1,6 @@
 # To-Do-List-Projetc
 
-It is a To Do List structure project 
+It is a To Do List project  with add and remove function
 
 ## Built With
 
