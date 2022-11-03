@@ -14,6 +14,9 @@ const updateTask = (id, newValue) => {
   updateStorage(todoList.data);
 };
 
+/* eslint-disable no-use-before-define */
+/* eslint-disable no-unused-vars */
+
 const addTask = (lists) => {
   const taskListDiv = document.createElement('div');
   taskListDiv.classList.add('list-items');
