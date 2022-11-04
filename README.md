@@ -1,16 +1,12 @@
-# Todo List with Add and Remove function
+# Todo List with Add and Remove Function
 
-- This project is a todo list project with add and remove function
+It is a Todo list with add and remove function as well as saving data within local storage
 
 ## Built With
 
 - HTML
 - CSS
 - JavaScript
-
-## Live demo
-
-If you want to see on the live demo, you can use the following link: https://aster-alemu.github.io/To-Do-List-Projetc/
 
 ## Getting Started
 
