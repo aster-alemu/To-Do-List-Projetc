@@ -1,16 +1,12 @@
-# Todo List with Interactivity
+# Todo List with Add and Remove Function
 
-It is a Todo list with CURD (create, update, delete) methods  and the user will also be able to mark task completion by selecting the corresponding checkbox. The updated tasks list will be stored in local storage.
+It is a Todo list with add and remove function as well as saving data within local storage
 
 ## Built With
 
 - HTML
 - CSS
 - JavaScript
-
-## Live demo
-
-If you want to see on the live demo, you can use the following link: https://aster-alemu.github.io/To-Do-List-Projetc/
 
 ## Getting Started
 

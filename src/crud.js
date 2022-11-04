@@ -20,7 +20,7 @@ const updateTask = (id, newValue) => {
 const addTask = (lists) => {
   const taskListDiv = document.createElement('div');
   taskListDiv.classList.add('list-items');
-  taskListDiv.id = lists.index;
+  taskListDiv.id = 1;
   taskListDiv.innerHTML = `
   <input type="checkbox" class="check" ${lists.completed ? 'checked' : ''}> 
   <input type="text" id="todo-lists" value = '${lists.description}'>
@@ -65,7 +65,7 @@ const onSubmit = () => {
   };
 
   todoList.data.push(newItem);
-  addTask(newItem, todoList.data.length - 1);
+  addTask(newItem, todoList.data.length + 1);
   updateStorage(todoList.data);
   addTodoInput.value = '';
   addTodoInput.focus();
