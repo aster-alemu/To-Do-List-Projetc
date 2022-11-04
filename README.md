@@ -20,7 +20,7 @@ It is a Todo list with CURD (create, update, delete) methods  and the user will 
 👤 **Aster Alemu**
 
 - GitHub: [Aster Alemu](https://github.com/aster-alemu)
-- Twitter: [Aster Alemu](https://twitter.com/tarik_tesfa)
+- Twitter: [Aster Alemu](https://twitter.com/aster_alemu)
 - LinkedIn: [Aster Alemu](https://www.linkedin.com/in/aster-alemu/)
 
 ## 🤝 Contributing
